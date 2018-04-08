@@ -1,5 +1,5 @@
 # Constructor-Hangman
-A hangman command-line game using constructor functions
+A hangman command-line game using constructor functions.
 
 # Advanced JavaScript Project: Constructor Hangman
 
